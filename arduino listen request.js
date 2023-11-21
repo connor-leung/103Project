@@ -1,6 +1,6 @@
 //listening to angle variable
 const { ArduinoIoTCloud } = require('arduino-iot-js');
-const thingId = "96abab4f-413c-4d55-b119-bf27c77903f2"
+const thingId = "89558bc2-74c7-42ef-b19d-dce34fd0ef50"
 const variableName  = "angle"
 
 const options = {
